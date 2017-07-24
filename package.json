@@ -1,0 +1,26 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinchen1988/personal-website.git"
+  },
+  "keywords": [
+    "Front-end",
+    "developer"
+  ],
+  "author": "Alvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinchen1988/personal-website/issues"
+  },
+  "homepage": "https://github.com/alvinchen1988/personal-website#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
